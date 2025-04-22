@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning HTML / CSS<br>⚡ Fun fact: I love working with JetBrains Rider
+🌱 I’m currently learning Frontend from [Frontend masters]([https://your-link-url.com](https://frontendmasters.com))<br>⚡ Fun fact: I love working with JetBrains Rider
 
 
 # 💻 Tech Stack:
